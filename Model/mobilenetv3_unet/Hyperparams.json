@@ -1,0 +1,5 @@
+{
+    "learning_rate": 1e-4,
+    "epochs": 2,
+    "lrDecay": 0.85
+}
