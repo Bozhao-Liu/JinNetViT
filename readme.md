@@ -1,0 +1,4 @@
+JinPPViT is the legacy name of JinNetViT, it shall be regarded the same in practice.
+Usage example:
+```shell
+python3 train.py --train True --resume True --network JinPPViT --batch_size 25
